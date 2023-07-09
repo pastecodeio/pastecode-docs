@@ -3,46 +3,29 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+PasteCode.io is a code sharing website, only intended for the collaboration of developers. You can paste code online and share code online for free. PasteCode.io supports up to 165 programming languages via syntax highlighting to fit your needs. You can put password or use the "For Myself" feature to keep your snippets for safe. Also, you can set an expiration time for temporary sharing. Pasted code snippets that without expiration time, may stay on our site indefinitely as long as you don't remove them.
 
-## Getting Started
+## Some features that make us different than other paste sites
 
-Get started by **creating a new site**.
+- Actively maintaining.
+- Syntax highlighting of 165+ languages with 8 different themes.
+- Automatic syntax detection in the most used 30+ languages via machine learning.
+- Password protection and client side AES-256 encryption.
+- Snippet forking(cloning).
+- Snippet expiration also with "Burn After Read".
+- Search engine for indexable snippets.
+- "For Myself" toggle to keep snippet for yourself.
+- Mobile friendly UI also fully featured iOS app (Android is still in development).
+- Fully featured Visual Studio Code extension.
+- Unlimited API access to snippets.
+- CLI client, Slack & Discord Bot and Chrome plugin are coming soon.
+- Login/Register via Apple or Google (many more will come).
+- Two factor authentication.
+- Snippet list with filtering and syncing with your account.
+- Fullscreen (distraction free) view.
+- Editor customization (change theme, font size, word wrap etc.).
+- Pro membership.
+- and much more...
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
