@@ -73,9 +73,19 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Docs Home',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://pastecode.io',
+            label: 'Return to Main Site',
+            position: 'left',
+          },
+          {
+            href: 'https://pastecode.canny.io',
+            label: 'Feedbacks & Roadmap',
+            position: 'right',
+          },
           {
             href: 'https://github.com/pastecodeio/pastecode-docs',
             label: 'GitHub',
