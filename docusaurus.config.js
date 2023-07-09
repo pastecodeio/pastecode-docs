@@ -82,11 +82,6 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://pastecode.canny.io',
-            label: 'Feedbacks & Roadmap',
-            position: 'right',
-          },
-          {
             href: 'https://github.com/pastecodeio/pastecode-docs',
             label: 'GitHub',
             position: 'right',
