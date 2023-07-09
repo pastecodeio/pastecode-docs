@@ -87,24 +87,24 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Links',
-            items: [
-              {
-                label: 'PasteCode.io',
-                href: "https://pastecode.io"
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/pastecodeio',
-              },
-            ],
-          },
+          // {
+          //   title: 'Links',
+          //   items: [
+          //     {
+          //       label: 'PasteCode.io',
+          //       href: "https://pastecode.io"
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/pastecodeio',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} PasteCode.io.`,
       },
