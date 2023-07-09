@@ -3,29 +3,34 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome
+**PasteCode.io** is a code-sharing website designed for the collaboration of developers. You can freely paste and share code online for free. 
 
-PasteCode.io is a code-sharing website, only intended for the collaboration of developers. You can paste code online and share code online for free. PasteCode.io supports up to 165 programming languages via syntax highlighting to fit your needs. You can put password or use the "For Myself" feature to keep your snippets for safe. Also, you can set an expiration time for temporary sharing. Pasted code snippets that without expiration time, may stay on our site indefinitely as long as you don't remove them.
+Key features of PasteCode.io include:
 
-## Some features that make us different than other paste sites
+- Support for up to 165 programming languages with syntax highlighting to meet your specific needs.
+- Password protection and the "For Myself" feature to ensure the security of your snippets.
+- Option to set an expiration time for temporary sharing.
+- Snippets without an expiration time may remain on our site indefinitely, as long as you don't remove them.
 
-- Actively maintaining.
-- Syntax highlighting of 165+ languages with 8 different themes.
-- Automatic syntax detection in the most used 30+ languages via machine learning.
-- Password protection and client-side AES-256 encryption.
-- Snippet forking(cloning).
-- Snippet expiration also with "Burn After Read".
+Some of the features that set us apart from other paste sites are:
+
+- Active maintenance to provide a reliable platform.
+- Syntax highlighting for 165+ languages with eight different themes.
+- Automatic syntax detection in the most commonly used 30+ languages using machine learning.
+- Password protection and client-side AES-256 encryption for enhanced security.
+- Snippet forking (cloning) for easy collaboration.
+- Snippet expiration with "Burn After Read" option.
 - Search engine for indexable snippets.
-- "For Myself" toggle to keep snippet for yourself.
-- Mobile-friendly UI also fully featured iOS app (Android is still in development).
+- "For Myself" toggle to keep snippets private.
+- Mobile-friendly UI and a fully-featured iOS app (Android version currently in development).
 - Fully featured Visual Studio Code extension.
 - Unlimited API access to snippets.
-- CLI client, Slack & Discord Bot, and Chrome plugin are coming soon.
-- Login/Register via Apple or Google (many more will come).
-- Two-factor authentication.
+- CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
+- Convenient login/register options via Apple or Google (with more to come).
+- Two-factor authentication for added security.
 - Snippet list with filtering and syncing with your account.
-- Fullscreen (distraction-free) view.
-- Editor customization (change theme, font size, word wrap, etc.).
-- Pro membership.
-- and much more...
+- Fullscreen (distraction-free) view for focused coding.
+- Editor customization options such as theme, font size, and word wrap.
+- Pro membership with additional benefits.
 
+Also, please refer to our [roadmap](https://pastecode.io/feedback) for more information.
