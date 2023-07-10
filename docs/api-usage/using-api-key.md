@@ -24,7 +24,7 @@ As an example, here is the format of the API URL:
 
 ## Login via API Key
 
-If you enable the `Allow Login` option during account creation, you can use your API key for login. For example, our Visual Studio Code extension requires a login-enabled API key to access your account.
+If you enable the `Allow Login` option during API key creation, you can use your API key for login. For example, our Visual Studio Code extension requires a login-enabled API key to access your account.
 
 ### Warnings
 
