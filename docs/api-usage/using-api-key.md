@@ -2,7 +2,7 @@
 
 Currently, we have limited use cases, but we will soon integrate API keys into more services.
 
-### Programmatic Access to Snippets
+## Programmatic Access to Snippets
 
 You can access and directly download all your private snippets and other public snippets using your API key. 
 
@@ -22,7 +22,7 @@ As an example, here is the format of the API URL:
    - If you want to download the snippet directly, replace `raw=inline` query parameter with `raw=attachment`.
    - Replace `SNIPPET_PASSWORD_IF_NEEDED` with your actual snippet password if the snippet is password protected.
 
-### Login via API Key
+## Login via API Key
 
 If you enable the `Allow Login` option during account creation, you can use your API key for login. For example, our Visual Studio Code extension requires a login-enabled API key to access your account.
 
