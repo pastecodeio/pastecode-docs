@@ -1,4 +1,4 @@
-## Using an API Key
+# Using an API Key
 
 Currently, we have limited use cases, but we will soon integrate API keys into more services.
 
