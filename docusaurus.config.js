@@ -81,35 +81,64 @@ const config = {
             label: 'Return to Main Site',
             position: 'left',
           },
-          {
-            href: 'https://github.com/pastecodeio/pastecode-docs',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
     
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Links',
-          //   items: [
-          //     {
-          //       label: 'PasteCode.io',
-          //       href: "https://pastecode.io"
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/pastecodeio',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Stay in touch',
+            items: [
+              {
+                label: 'Contact',
+                href: "https://pastecode.io/contact"
+              },
+              {
+                label: 'Feedback & Suggestions',
+                href: "https://pastecode.io/feedback"
+              },
+              {
+                label: 'GitHub',
+                href: "https://github.com/pastecodeio"
+              },
+            ],
+          },
+          {
+            title: 'Support Us',
+            items: [
+              {
+                label: 'Donate',
+                href: "https://pastecode.io/donate"
+              },
+              {
+                label: 'Vote on Product Hunt',
+                href: "https://www.producthunt.com/posts/pastecode-io"
+              }
+            ],
+          },
+          {
+            title: 'Useful',
+            items: [
+              {
+                label: 'WebUtils.dev',
+                href: "https://webutils.dev",
+              }
+            ],
+          },
+          {
+            title: 'Policies',
+            items: [
+              {
+                label: 'Privacy Policy',
+                href: 'http://pastecode.io/privacy-policy',
+              },
+              {
+                label: 'Terms of Service',
+                href: 'http://pastecode.io/terms-of-service',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} PasteCode.io.`,
       },
