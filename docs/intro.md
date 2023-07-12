@@ -24,7 +24,7 @@ Some of the features that set us apart from other paste sites are:
 - Search engine for indexable snippets.
 - "For Myself" toggle to keep snippets private.
 - Mobile-friendly UI and a fully-featured iOS app (Android version currently in development).
-- Fully featured Visual Studio Code extension.
+- Fully featured Visual Studio Code extension, Telegram Bot.
 - Unlimited API access to snippets.
 - CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
 - Convenient login/register options via Apple or Google (with more to come).
