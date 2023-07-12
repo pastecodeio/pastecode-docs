@@ -32,6 +32,7 @@ Some of the features that set us apart from other paste sites are:
 - Snippet list with filtering and syncing with your account.
 - Fullscreen (distraction-free) view for focused coding.
 - Editor customization options such as theme, font size, and word wrap.
+- Leveraging machine learning, our platform employs automatic spam detection to ensure a safe environment.
 - Pro membership with additional benefits.
 
 Also, please refer to our [roadmap](https://pastecode.io/feedback) for more information.
