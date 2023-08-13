@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Donate',
-                href: "https://pastecode.io/donate"
+                href: "https://www.buymeacoffee.com/_mbt/"
               },
               {
                 label: 'Vote on Product Hunt',
