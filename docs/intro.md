@@ -26,12 +26,13 @@ Some of the features that set us apart from other paste sites are:
 - Mobile-friendly UI and a fully-featured iOS app (Android version currently in development).
 - Fully featured Visual Studio Code extension, Telegram Bot.
 - Unlimited API access to snippets.
-- CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
 - Convenient login/register options via Apple or Google (with more to come).
 - Two-factor authentication for added security.
 - Snippet list with filtering and syncing with your account.
 - Fullscreen (distraction-free) view for focused coding.
 - Editor customization options such as theme, font size, and word wrap.
 - Leveraging machine learning, our platform employs automatic spam detection to ensure a safe environment.
+- Comment system that enables visitors to leave comments on your snippets.
+- CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
 
 Also, please refer to our [roadmap](https://pastecode.io/feedback) for more information.
