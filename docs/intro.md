@@ -33,6 +33,7 @@ Some of the features that set us apart from other paste sites are:
 - Editor customization options such as theme, font size, and word wrap.
 - Leveraging machine learning, our platform employs automatic spam detection to ensure a safe environment.
 - Comment system that enables visitors to leave comments on your snippets.
+- Markdown rendering support for snippets whose syntax is markdown.
 - CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
 
 Also, please refer to our [roadmap](https://pastecode.io/feedback) for more information.
