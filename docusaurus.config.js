@@ -95,10 +95,6 @@ const config = {
                 href: "https://pastecode.io/contact"
               },
               {
-                label: 'Feedback & Suggestions',
-                href: "https://pastecode.io/feedback"
-              },
-              {
                 label: 'GitHub',
                 href: "https://github.com/pastecodeio"
               },
