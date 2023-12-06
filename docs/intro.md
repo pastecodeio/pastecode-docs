@@ -12,8 +12,6 @@ Some of the features that set us apart from other paste sites are:
 - Password protection and the "For Myself" feature to ensure the security of your snippets.
 - Option to set an expiration time for temporary sharing.
 - Snippets without an expiration time may remain on our site indefinitely, as long as you don't remove them.
-- Active maintenance to provide a reliable platform.
-- Syntax highlighting for 165+ languages with 8 different themes.
 - Automatic syntax detection in the most commonly used 30+ languages using machine learning.
 - Password protection and client-side AES-256 encryption for enhanced security.
 - Snippet forking (cloning) for easy duplication.
@@ -33,5 +31,4 @@ Some of the features that set us apart from other paste sites are:
 - Dark mode.
 - Markdown rendering support for snippets whose syntax is markdown.
 - CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
-
-Also, please refer to our [roadmap](https://pastecode.io/feedback) for more information.
+- Active maintenance to provide a reliable platform.
