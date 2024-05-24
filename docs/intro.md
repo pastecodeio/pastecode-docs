@@ -20,7 +20,7 @@ Some of the features that set us apart from other paste sites are:
 - Mobile-friendly UI and a fully-featured iOS app (Android version currently in development).
 - Fully featured Visual Studio Code extension, Telegram Bot.
 - Unlimited API access to snippets.
-- Login/register options via Apple or Google (with more to come).
+- Login/register options via Apple, Google and GitHub (with more to come).
 - Two-factor authentication for more security.
 - Snippet list with filtering and syncing with your account.
 - Fullscreen (distraction-free) view.
