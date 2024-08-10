@@ -31,3 +31,4 @@ Some of the features that set us apart from other paste sites are:
 - Markdown rendering support for snippets whose syntax is markdown.
 - CLI client, Slack & Discord Bot, and Chrome plugin coming soon.
 - Collections for organizing your snippets.
+- Scan system for secrets to prevent their leakage in your snippets.
