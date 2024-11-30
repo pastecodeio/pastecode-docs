@@ -4,6 +4,8 @@ Currently, we have limited use cases, but we will soon integrate API keys into m
 
 ## Programmatic Access to Snippets
 
+**This feature was previously open to the public, allowing anyone to use it. Unfortunately, some individuals abused it, which negatively impacted our domain's reputation. As a result, this feature is now available only upon request. Please contact us with a legitimate use case to gain programmatic access to snippets.**
+
 You can access and directly download all your private snippets and other public snippets using your API key. 
 
 Click on `API Access` on any snippet detail page to view the instructions.
