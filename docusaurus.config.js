@@ -104,10 +104,6 @@ const config = {
             title: 'Support Us',
             items: [
               {
-                label: 'Donate',
-                href: "https://buymeacoffee.com/pastecode_io"
-              },
-              {
                 label: 'Vote on Product Hunt',
                 href: "https://www.producthunt.com/posts/pastecode-io"
               }
