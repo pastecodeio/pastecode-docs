@@ -12,6 +12,7 @@ Some of the features that set us apart from other paste sites are:
 - Password protection and the "For Myself" feature to ensure the security of your snippets.
 - Option to set an expiration time for temporary sharing. (Snippets without an expiration time may remain on our site indefinitely unless you remove them.)
 - "Ask AI to Explain" feature that enables our machine learning model to explain snippet content.
+- "Code Screenshot" feature that automatically captures your code editor and lets you download or copy beautiful code images with a single click.
 - Automatic syntax detection for the 30+ most commonly used languages using machine learning.
 - Password protection and client-side AES-256 encryption for enhanced security.
 - Snippet forking (cloning) for easy duplication.
