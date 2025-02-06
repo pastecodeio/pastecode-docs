@@ -1,3 +1,4 @@
-# PasteCode.io's Official Documentation Repository
+# PasteCode.io Official Documentation Repository [DEPRECATED]
 
-Visit [https://docs.pastecode.io](https://docs.pastecode.io), to explore docs.
+This repository is no longer maintained. The information here may be outdated or incorrect.  
+For documentation, visit the [community site](https://community.pastecode.io/c/support-and-feedback/7).  
